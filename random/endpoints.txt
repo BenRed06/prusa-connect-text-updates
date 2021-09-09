@@ -1,1 +1,15 @@
+API ENDPOINTS:
 
+
+
+"temp_nozzle":240
+"temp_bed":85
+"material":"PETG"
+"pos_z_mm":0.22
+"printing_speed":100
+"flow_factor":95
+"progress":0
+"print_dur":" 2m 54s"
+"time_est":"6240"
+"time_zone":"-4
+"project_name":"cam mount.gcode
