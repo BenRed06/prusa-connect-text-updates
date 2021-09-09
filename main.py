@@ -32,12 +32,12 @@ percent = []
 
 
 while True:
-    print("stats on:", {name}) #name of printer
-    print("ip", ip) 
-    print("hotend temp", ) #hotend temp
-    print("bed temp") #bed temp
-    print("est till done") #estimated time till done
-    print("percent done") #percentage done
-    print("-------------")
+    print("stats on: " + name) #name of printer
+    print("ip: " + ip)
+    print("hotend temp:") #hotend temp
+    print("bed temp:") #bed temp
+    print("est till done:") #estimated time till done
+    print("percent done:") #percentage done
+    print("---------------------")
     time.sleep(wait)
 
