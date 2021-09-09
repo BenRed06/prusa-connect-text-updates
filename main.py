@@ -1,15 +1,32 @@
 import time
-import requests
+#import requests
 import json
 
 
-#PRINTER_IP/api/telemetry
-
-res = requests.get('YOUR_PRINTERS_IP')
+#192.168.1.253/api/telemetry
 
 
-stuff = res.json()
+
+#information
+name = Prusa Mini #put your printers name here (it can be anything)
+ip = YOUR_PRINTER_IP_HERE #put the IP of the printer here
+wait = 20 #set this as a decimal: example: 1.0 or 3.6, (it is in seconds)
+
+
+
+
+
+
+#res = requests.get('http://162.168.1.253'+ uri)
+
+
+#stuff = res.json()
+
+
+
 
 while True:
-    time.sleep(60.0)
-    print(stuff)
+    print(name)
+    print(ip)
+    time.sleep(wait)
+
