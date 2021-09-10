@@ -13,7 +13,16 @@
 
 
 
-# plans:
+# progress:
 
+
+### TO DO
+
+1. setup basic working system to print to console
+
+
+### DOING
 
 1. 
+
+###DONE
