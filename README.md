@@ -6,7 +6,7 @@
 <br><br>
 <br><br>
 <br><br>
-<h7>if people like it i will keep updating it as the prusa connect API gets better</h7>
+######if people like it i will keep updating it as the prusa connect API gets better######
 
 
 
