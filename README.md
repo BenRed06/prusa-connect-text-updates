@@ -18,11 +18,19 @@
 
 ### TO DO
 
+<br><br>
+
 1. setup basic working system to print to console
 
+<br><br>
 
 ### DOING
 
-1. 
+<br><br>
 
-###DONE
+1. 
+<br><br>
+
+### DONE
+
+<br><br>
