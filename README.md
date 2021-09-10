@@ -1,7 +1,17 @@
 # prusa-connect-updates
 
-# this is a small python program I hacked together one day when I was bored to text myself every 10-15 minutes the status of my prusa mini.
+# this is a small python program I hacked together one day when I was bored, its a basic GUI to show stats on your prusa mini!
 
 
 
 <h4>if people like it i will keep updating it as the prusa connect API gets better</h4>
+
+
+
+
+
+
+# plans:
+
+
+1. 
